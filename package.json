@@ -1,6 +1,6 @@
 {
   "name": "@zebbo/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how-to-npm nodeschool tutorial project",
   "main": "index.js",
   "scripts": {
